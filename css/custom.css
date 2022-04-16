@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Mr+De+Haviland&family=Raleway&family=Red+Rose&display=swap');
+.carousel-item{
+	height: 45rem;
+	width: 100%;
+}
+.container-fluid img{
+        /*width: 100%;
+*/        height: auto;
+        }
+header.masthead .masthead-heading {
+	font-family: 'Red Rose', cursive;
+	color: #BC2C1B
+}
+header.masthead .masthead-subheading{
+	font-family: 'Mr De Haviland', cursive;
+	font-size: 3rem;
+	color: #fff;
+}
+#mainNav .navbar-nav .nav-item .nav-link {
+	font-family: 'Raleway', sans-serif;
+	color: #D69214;
+}
+#food img{
+	height: 20rem;
+	width: auto;
+	padding: 0px 10px 0px 10px;
+	margin: auto;
+}
+iframe{
+	margin: auto;
+	padding-bottom: 10px;
+}
